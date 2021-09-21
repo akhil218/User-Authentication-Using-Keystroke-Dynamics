@@ -1,5 +1,6 @@
 # USER-AUTHENTICATION-USING-KEYSTROKE-DYNAMICS
 Detection of an imposter trying to authenticate based on the his/her typing pattern of the password
+### Refer to the [PPT](https://github.com/akhil218/USER-AUTHENTICATION-USING-KEYSTROKE-DYNAMICS/blob/main/UserAuth1.pptx) for in-depth understanding 
 ## Working of Project:
 * Typing patterns of users typing a same password will be recorded into a dataset
 * The sets of timing features are extracted, which will be fed into user detection algo
