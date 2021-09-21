@@ -5,7 +5,7 @@ Detection of an imposter trying to authenticate based on the his/her typing patt
 * Typing patterns of users typing a same password will be recorded into a dataset
 * The sets of timing features are extracted, which will be fed into user detection algo
 * Step 1 -
-    1. ML model will be trained with the keystroke patterns of the users
+    1. ML model will be trained with the [keystroke patterns](https://en.wikipedia.org/wiki/Keystroke_dynamics) of the users
 * Step 2 - 
     1. Test data with keystroke patterns of authorized and unauthorized users (imposters) will be provided
 * Step 3 - 
