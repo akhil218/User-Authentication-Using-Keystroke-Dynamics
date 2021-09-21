@@ -9,7 +9,7 @@ Detection of an imposter trying to authenticate based on the his/her typing patt
     1. Test data with keystroke patterns of authorized and unauthorized users (imposters) will be provided
 * Step 3 - 
     1. Model will be able to distinguish authorized users from imposters based on the test data
-* Use of ONE-CLASS Support Vector Machine
+* Use of [ONE-CLASS Support Vector Machine](https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html)
     1. All the users are categorized as one category - 'Authorized', hence ONE-CLASS models will be required
 
 ## Key Press Information:
