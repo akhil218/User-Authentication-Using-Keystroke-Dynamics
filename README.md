@@ -3,7 +3,7 @@ Detection of an imposter trying to authenticate based on the his/her typing patt
 ### Refer to the [PPT](https://github.com/akhil218/USER-AUTHENTICATION-USING-KEYSTROKE-DYNAMICS/blob/main/UserAuth1.pptx) for in-depth understanding
 
 ### Built an application to capture the Keystroke Timings while typing the password - will record the timings of keystroke dynamics
-    * [KeyTimingsApp](https://github.com/akhil218/USER-AUTHENTICATION-USING-KEYSTROKE-DYNAMICS/blob/main/KeyTimingsApp.jar) 
+  * [KeyTimingsApp](https://github.com/akhil218/USER-AUTHENTICATION-USING-KEYSTROKE-DYNAMICS/blob/main/KeyTimingsApp.jar) 
 ## Working of Project:
 * Typing patterns of users typing a same password will be recorded into a dataset
 * The sets of timing features are extracted, which will be fed into user detection algo
